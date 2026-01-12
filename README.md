@@ -1,5 +1,5 @@
 ### Olá, eu sou o Gabriel! 😁
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabszin0&show_icons=true&theme=dracula)
+
 
 
 ## Algumas tecnologias que eu utilizo... 🖥️
