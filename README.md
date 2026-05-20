@@ -8,8 +8,8 @@
   <img align= "center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align= "center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align= "center" alt="aws" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align= "center" alt="java" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
+
 Gosto muito de tecnologia, e principalmente voltado para manipulação de dados, apredendo constantemente a respeito da área!
 
 ## Entre em contato
